@@ -73,4 +73,4 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias para o e
 
 ## Licença
 
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE]() para obter mais informações.
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/iaguy/iaguy-Dio_projeto_modelo_logico_oficina/blob/main/LICENSE) para obter mais informações.
